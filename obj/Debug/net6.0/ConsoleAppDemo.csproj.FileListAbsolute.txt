@@ -1,0 +1,14 @@
+C:\GitSource\ConsoleAppDemo\bin\Debug\net6.0\ConsoleAppDemo.exe
+C:\GitSource\ConsoleAppDemo\bin\Debug\net6.0\ConsoleAppDemo.deps.json
+C:\GitSource\ConsoleAppDemo\bin\Debug\net6.0\ConsoleAppDemo.runtimeconfig.json
+C:\GitSource\ConsoleAppDemo\bin\Debug\net6.0\ConsoleAppDemo.dll
+C:\GitSource\ConsoleAppDemo\bin\Debug\net6.0\ConsoleAppDemo.pdb
+C:\GitSource\ConsoleAppDemo\obj\Debug\net6.0\ConsoleAppDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitSource\ConsoleAppDemo\obj\Debug\net6.0\ConsoleAppDemo.AssemblyInfoInputs.cache
+C:\GitSource\ConsoleAppDemo\obj\Debug\net6.0\ConsoleAppDemo.AssemblyInfo.cs
+C:\GitSource\ConsoleAppDemo\obj\Debug\net6.0\ConsoleAppDemo.csproj.CoreCompileInputs.cache
+C:\GitSource\ConsoleAppDemo\obj\Debug\net6.0\ConsoleAppDemo.dll
+C:\GitSource\ConsoleAppDemo\obj\Debug\net6.0\refint\ConsoleAppDemo.dll
+C:\GitSource\ConsoleAppDemo\obj\Debug\net6.0\ConsoleAppDemo.pdb
+C:\GitSource\ConsoleAppDemo\obj\Debug\net6.0\ConsoleAppDemo.genruntimeconfig.cache
+C:\GitSource\ConsoleAppDemo\obj\Debug\net6.0\ref\ConsoleAppDemo.dll
