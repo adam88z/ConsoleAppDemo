@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ConsoleAppDemo.Objects;
 
 namespace ConsoleAppDemo.DesignPatterns.Builder
 {
@@ -20,21 +21,6 @@ namespace ConsoleAppDemo.DesignPatterns.Builder
         public override Product GetResult()
         {
             return _product;
-        }
-    }
-
-    class Product
-    {
-        private List<string> _parts = new List<string>();
-        public void Add(string part)
-        {
-            _parts.Add(part);
-        }
-        public void Show()
-        {
-            Console.WriteLine("\nProduct Parts -------");
-            foreach (string part in _parts)
-                Console.WriteLine(part);
         }
     }
 }

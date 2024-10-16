@@ -10,17 +10,17 @@ namespace ConsoleAppDemo.Employees
 
         public void Promote()
         {
-            Console.WriteLine("Employee has been promoted.");
+            Console.WriteLine("Developer has been promoted.");
         }
 
         public void Quit()
         {
-            Console.WriteLine("Employee has quit.");
+            Console.WriteLine("Developer has quit.");
         }
 
         public void Work()
         {
-            Console.WriteLine("Employee is working.");
+            Console.WriteLine("Developer is working.");
         }
     }
 }
