@@ -1,6 +1,6 @@
 namespace ConsoleAppDemo.Objects
 {  
-    class Product
+    public class Product
     {
         private List<string> _parts = new List<string>();
         public void Add(string part)
